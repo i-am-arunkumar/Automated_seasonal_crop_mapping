@@ -20,7 +20,9 @@ The scope of the current proposal is to develop an operational automated crop ma
 
 ### Tutorial Links
 
-1. 
+1. https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO - dl
+
+2. https://www.youtube.com/watch?v=ylvjByLvpfE - remote sensing basics
 
 ### Research papers
 
