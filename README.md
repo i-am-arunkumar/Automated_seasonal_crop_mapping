@@ -2,7 +2,7 @@
 
 ### Scope
 
-The scope of the current proposal is to develop an operational automated crop mapping technique employing multi-temporal optical and suynthetic aperture radar data.
+The scope of the current proposal is to develop an operational automated crop mapping technique employing multi-temporal optical and synthetic aperture radar data.
 
 ### Team members
 
