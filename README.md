@@ -18,13 +18,9 @@ The scope of the current proposal is to develop an operational automated crop ma
 
 - remote sensing images
 
-### Tutorial Links
+### Reference links
 
-1. 
-
-### Research papers
-
-1. 
+1. https://bhuvan.nrsc.gov.in/home/index.php
 
 ### TODO
 
