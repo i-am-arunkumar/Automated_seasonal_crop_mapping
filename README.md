@@ -2,7 +2,7 @@
 
 ### Scope
 
-The scope of the current proposal is to develop an operational automated crop mapping technique employing multi-temporal optical and suynthetic aperture radar data.
+The scope of the current proposal is to develop an operational automated crop mapping technique employing multi-temporal optical and synthetic aperture radar data.
 
 ### Team members
 
@@ -19,8 +19,13 @@ The scope of the current proposal is to develop an operational automated crop ma
 - remote sensing images
 
 ### Reference links
-
 1. https://bhuvan.nrsc.gov.in/home/index.php
+2. https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO - dl
+3. https://www.youtube.com/watch?v=ylvjByLvpfE - remote sensing basics
+
+### Research papers
+
+1. 
 
 ### TODO
 
